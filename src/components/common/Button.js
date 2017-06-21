@@ -23,6 +23,7 @@ const styles = {
   },
   buttonStyle: {
     flex: 1,
+    flexDirection: 'column',
     alignSelf: 'stretch',
     backgroundColor: '#fff',
     borderRadius: 5,
